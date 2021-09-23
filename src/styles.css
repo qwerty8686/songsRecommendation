@@ -17,6 +17,13 @@
   border-radius: 2rem;
   cursor: pointer;
 }
+.background {
+  background-color: cornflowerblue;
+  border-radius: 2rem;
+  color: white;
+  width: fit-content;
+  padding: 0.5rem 1rem;
+}
 button:hover {
   color: white;
   background-color: cornflowerblue;
